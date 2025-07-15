@@ -1,0 +1,4 @@
+streamlit
+pypandoc
+google-generativeai
+beautifulsoup4
